@@ -3,7 +3,7 @@
 
 <html>
 
-  <h1> primeiro arquivo em html </h1>
+  <h1> PRIMEIRO ARQUIVO EM HTML </h1>
 
 </html>
 
